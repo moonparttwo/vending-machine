@@ -1,0 +1,7 @@
+Hello World!
+2021-03-28T13:25:20.905889900 Hello World!
+03/28/2021 15:02:23 Feeding Money 5
+03/28/2021 15:11:35 Feeding Money 5
+03/28/2021 15:11:52 Cloud Popcorn 3.65 1.35
+03/28/2021 15:16:27 Feeding Money 2
+03/28/2021 15:16:39 Purchasing: Heavy Price: 1.5 Balance is: 0.5
